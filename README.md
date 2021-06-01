@@ -39,5 +39,5 @@ open http://127.0.0.1:8000/admin
 ```
 
 For a more complete how-to guide for this project, see [Deploy a new PHP Laravel project using the Divio quickstart
-repository](https://docs.divio.com/en/latest/how-to/php-laravel-divio-quickstart/) in the [Divio Developer
+repository](https://docs.divio.com/en/latest/how-to/quickstart-php-laravel/) in the [Divio Developer
 Handbook](https://docs.divio.com).
